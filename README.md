@@ -1,0 +1,1 @@
+# flipkart-static-clone
